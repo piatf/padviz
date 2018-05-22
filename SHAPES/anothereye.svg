@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="58"
+   id="svg1"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="cateye2.svg"
+   style="shape-rendering:crispEdges">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview8"
+     showgrid="false"
+     units="px"
+     showborder="true"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="11.313708"
+     inkscape:cx="51.46247"
+     inkscape:cy="31.123889"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 50.001976,56.380854 98.576185,28.999995 50.000012,1.619134 61.287923,28.994188 Z"
+     id="RIGHT" />
+  <path
+     inkscape:connector-curvature="0"
+     id="LEFT"
+     d="M 49.998049,56.380854 1.4238174,28.999995 50.000013,1.619134 38.729116,28.994188 Z" />
+  <path
+     d="M 50.000001,5.0435525 40.91563,27.614735 50.000001,22.493874 59.082497,27.612859 Z"
+     id="ACC"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.96039605" />
+  <path
+     d="M 40.906251,30.358992 50.000001,52.956435 59.093751,30.358992 50.000001,35.483605 Z"
+     id="BRK"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.96039605" />
+</svg>

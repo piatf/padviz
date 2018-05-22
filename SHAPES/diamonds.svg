@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="250"
+   viewBox="0 0 400 250"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="triflicks.svg">
+  <metadata id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     borderlayer="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:zoom="1.9709906"
+     inkscape:cx="151.73641"
+     inkscape:cy="127.49252"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8" />
+  <path
+     id="RIGHT_ACC_3"
+     d="M 203.47794,6.541107 344.54606,122.9135 391.42335,122.9135 Z" />
+  <path
+     id="RIGHT_ACC_2"
+     d="M 201.88111,6.541107 286.50418,122.9135 336.88565,122.9135 Z" />
+  <path
+     id="RIGHT_ACC_1"
+     d="M 200.44952,6.541107 232.45268,122.9135 279.34356,122.9135 Z" />
+  <path
+     id="LEFT_ACC_3"
+     d="M 195.82406,6.541107 7.878675,122.9135 54.7526,122.9135 Z" />
+  <path
+     id="LEFT_ACC_2"
+     d="M 197.4211,6.541107 62.416564,122.9135 112.79469,122.9135 Z" />
+  <path
+     id="LEFT_ACC_1"
+     d="M 198.85248,6.541107 119.95847,122.9135 166.84935,122.9135 Z" />
+  <path
+     id="BRK"
+     d="M 199.6618,244.61934 225.46836,128.24352 173.85511,128.24352 Z" />
+  <path
+     id="ACC"
+     d="M 225.4581,122.91689 199.6618,6.581781 173.86533,122.91689 Z" />
+  <path
+     id="RIGHT_BRK_3"
+     d="M 344.98455,128.24693 202.98822,244.61591 391.91289,128.24693 Z" />
+  <path
+     id="RIGHT_BRK_2"
+     d="M 286.96131,128.24693 201.39304,244.61591 337.37352,128.24693 Z" />
+  <path
+     id="RIGHT_BRK_1"
+     d="M 232.43571,128.24693 200.44952,244.61591 279.34356,128.24693 Z" />
+  <path
+     id="LEFT_BRK_3"
+     d="M 7.389114,128.24693 196.3138,244.61591 54.314122,128.24693 Z" />
+  <path
+     id="LEFT_BRK_2"
+     d="M 61.928506,128.24693 197.90917,244.61591 112.33738,128.24693 Z" />
+  <path
+     id="LEFT_BRK_1"
+     d="M 119.95847,128.24693 198.85248,244.61591 166.86632,128.24693 Z" />
+</svg>
