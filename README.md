@@ -26,20 +26,20 @@ Yet, after some cleanup, the code is still very primive basing on an event-loop 
 This application comes "AS IS". I don't serve any warranty for it. It is licensed under LGPL-3.0. For a detailed license description see the LICENSE.txt document. For a short summary see here https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3)
 
 # FAQ and TROUBLESHOOINTG
-> regarding the binary package: why is the zip file still so big, despite the application being quite "small" ?
+__regarding the binary package: why is the zip file still so big, despite the application being quite "small"?__
 Since I programmed the application with python2 - python is a scripting language and uses an interpreter - the zipped package also contains the whole python interpreter and additional libraries, like 'pygame'. 
 If you prefer to, you can also get the code and run it on your system, with your local python2 installation and necessary libraries.
 
-> So why haven't you coded a c# application or - even better - an OBS plugin?
+__So why haven't you coded a c# application or - even better - an OBS plugin?__
 Because i'm stupid and lazy
 
-> I haven't changed any configuration but the inputs suddenly won't show
+__I haven't changed any configuration but the inputs suddenly won't show__
 One possible cause is, that you plugged or un-plugged another pad to your machine, next to the active one. A simple solution is to delete you config.json file and re-calibrate your inputs in the padviz application.
 
-> Why won't the viz show some very short brakes or acceleration bits?
+__Why won't the viz show some very short brakes or acceleration bits__
 I will probably not be able to fix this case with the padviz software. It depends on your pad driver. I was able to reproduce the described case with the default xbox pad driver. Using a custom driver you can resolve it by using increased polling rates. 
 
-> When the padviz tool is out of focus, it won't display any input values of the pad anymore.
+__When the padviz tool is out of focus (but not minimized) it won't display any input values of the pad anymore.__
 I'm really not sure what causes this and I cannot reproduce it on my machine. It was already reported for windows 10 with the ps3 controller and xbox one controller.
 
 # LINKS
